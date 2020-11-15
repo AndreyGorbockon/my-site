@@ -1,0 +1,41 @@
+.container {
+  width: 400px;
+  background-color: yellow;
+  height: 650px;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-left: 10px;
+  border: 7px dotted red;
+  padding: 50px;
+}
+h1 {
+  font-size: 60px;
+  font-family: impact;
+}
+
+h3 {
+  font-size: 21px;
+  font-family: impact;
+}
+
+p {
+  font-size: 14px;
+  font-family: arial;
+}
+
+hr {
+  background-color: black;
+  color: black;
+  height: 5px;
+}
+
+img {
+  border: 3px solid black;
+}
+
+.nav {
+    background-color: Green;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}

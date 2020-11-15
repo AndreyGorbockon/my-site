@@ -1,0 +1,13 @@
+body {
+    background-color: #708090;
+}
+   
+h1 {
+  color: #B22222;
+}
+. nav {
+    background-color: Green;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
